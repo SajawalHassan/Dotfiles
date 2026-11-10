@@ -1,0 +1,8 @@
+require("keybinds")
+require("monitors")
+require("autostart")
+require("env_vars")
+require("look_and_feel")
+require("misc")
+require("input")
+require("windows_and_workspaces")

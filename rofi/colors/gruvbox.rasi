@@ -1,0 +1,15 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Colors
+ **/
+* {
+    background:     #1A2221FF; /* Deepest cave green/black */
+    background-alt: #222D2CFF; /* Deeper cave green */
+    foreground:     #C9D0D3FF; /* Cool, distinct gray-white text */
+    selected:       #DF5D4CFF; /* Vibrant foliage orange-red for selections */
+    active:         #E5C07BFF; /* Character's robe yellow for active items */
+    urgent:         #B6324DFF; /* Deep crimson/magenta for urgent alerts */
+}
